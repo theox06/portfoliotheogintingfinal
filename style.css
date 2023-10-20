@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    min-height: 3000px;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #e2edff;
+}
+
+.jumbotron img {
+    width: 15%;
+    height: 15%;
+}
+
+#projects {
+    background-color: #e2edff;;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+li {
+    list-style-type: none;
+}
